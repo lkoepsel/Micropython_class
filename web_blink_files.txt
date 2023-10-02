@@ -1,0 +1,13 @@
+# web_blink files
+/templates
+/utemplate
+computer.svg
+microdot.py
+microdot_utemplate.py
+secrets.py
+wlan.py
++web_blink.py
+utemplate/compiled.py
+utemplate/recompile.py
+utemplate/source.py
+!templates/web_blink.html,templates/index.html

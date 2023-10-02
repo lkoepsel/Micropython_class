@@ -1,0 +1,18 @@
+# web_leds files
+/templates
+/utemplate
+computer.svg
+favicon.png
+microdot.py
+microdot_utemplate.py
+Pico_W.py
+secrets.py
+wlan.py
++web_leds.py
+templates/mvp.css
+utemplate/compiled.py
+utemplate/recompile.py
+utemplate/source.py
+templates/control_leds.html
+templates/default_leds.tpl
+!templates/web_leds.html,templates/index.html
